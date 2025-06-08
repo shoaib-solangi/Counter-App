@@ -22,4 +22,4 @@ A simple yet elegant counter application with interactive controls, built with v
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/counter-app.git
+git clone https://github.com/shoaib-solangi/Counter-App.git
